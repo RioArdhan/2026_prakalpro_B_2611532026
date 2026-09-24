@@ -13,7 +13,7 @@ is_member_2026 = input_member_2026 in ["y", "ya"]
 
 # Input status kode promo (mengecek apakah user mengetik 'y' atau 'ya')
 input_promo_2026 = input("Apakah kode promo valid? (y/t): ").strip().lower()
-kode_promo_valid_2026 = input_promo_2026 in ["y" "ya"]
+kode_promo_valid_2026 = input_promo_2026 in ["y", "ya"]
 
 total_diskon_persen_2026 = 0
 

@@ -6,7 +6,7 @@
 ipk_2026 = float(input("Input IPK Anda = "))
 
 if ipk_2026 > 2.75:
-    print("Anda Lulus Sangat Memuaskan dengan IPK " + str(ipk))
+    print("Anda Lulus Sangat Memuaskan dengan IPK " + str(ipk_2026))
 else:
     print("Anda Tidak Lulus")
 print("Program Selesai")
